@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-primary {
+    @apply px-4 py-2 bg-purple-600 text-white font-medium rounded-md 
+           hover:bg-purple-700 focus:outline-none focus:ring-2 
+           focus:ring-purple-500 focus:ring-offset-2 transition-colors;
+  }
+
+  .todo-checkbox {
+    @apply h-5 w-5 text-purple-600 rounded-full 
+           focus:ring-purple-500 focus:ring-2;
+  }
+}

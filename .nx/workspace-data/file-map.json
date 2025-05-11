@@ -1,0 +1,562 @@
+{
+  "version": "6.0",
+  "nxVersion": "21.0.3",
+  "pathMappings": {
+    "@todo/shared/ui": [
+      "libs/shared/ui/src/index.ts"
+    ]
+  },
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": "components/ui/pagination.tsx",
+        "hash": "6695871254927256418"
+      },
+      {
+        "file": "components/ui/use-mobile.tsx",
+        "hash": "13733113342415180474"
+      },
+      {
+        "file": "components/ui/switch.tsx",
+        "hash": "15267377429329437367"
+      },
+      {
+        "file": "components/ui/separator.tsx",
+        "hash": "9415431411622293558"
+      },
+      {
+        "file": "public/placeholder.svg",
+        "hash": "8334994000532407949"
+      },
+      {
+        "file": "components/ui/drawer.tsx",
+        "hash": "7064330466791120504"
+      },
+      {
+        "file": "public/placeholder-logo.png",
+        "hash": "8289190314768891133"
+      },
+      {
+        "file": "components/ui/calendar.tsx",
+        "hash": "2129487594005459025"
+      },
+      {
+        "file": "next.config.mjs",
+        "hash": "5752759835755451387"
+      },
+      {
+        "file": "components/ui/sheet.tsx",
+        "hash": "9909063006107426393"
+      },
+      {
+        "file": "components/ui/context-menu.tsx",
+        "hash": "8805924430629800691"
+      },
+      {
+        "file": "hooks/use-toast.ts",
+        "hash": "15518585359818126944"
+      },
+      {
+        "file": "components/ui/sonner.tsx",
+        "hash": "7597688207902435979"
+      },
+      {
+        "file": "postcss.config.mjs",
+        "hash": "9334535520284521497"
+      },
+      {
+        "file": "components.json",
+        "hash": "8314311856765253561"
+      },
+      {
+        "file": "hooks/use-mobile.tsx",
+        "hash": "13733113342415180474"
+      },
+      {
+        "file": "components/ui/avatar.tsx",
+        "hash": "3387519805184530685"
+      },
+      {
+        "file": "components/TodoApp.tsx",
+        "hash": "10145259948941509764"
+      },
+      {
+        "file": "components/ui/dialog.tsx",
+        "hash": "5174274576922791261"
+      },
+      {
+        "file": "components/ui/input.tsx",
+        "hash": "9836814713155614279"
+      },
+      {
+        "file": "public/placeholder-logo.svg",
+        "hash": "16087407587954228261"
+      },
+      {
+        "file": "lib/utils.ts",
+        "hash": "6483145186850064023"
+      },
+      {
+        "file": "public/placeholder-user.jpg",
+        "hash": "14422034132711089998"
+      },
+      {
+        "file": "components/ui/dropdown-menu.tsx",
+        "hash": "5036362963622538122"
+      },
+      {
+        "file": "components/ui/badge.tsx",
+        "hash": "14144848543379436525"
+      },
+      {
+        "file": "components/ui/alert.tsx",
+        "hash": "2923962321378869303"
+      },
+      {
+        "file": "components/ui/aspect-ratio.tsx",
+        "hash": "5515004553788436449"
+      },
+      {
+        "file": "components/TodoListStats.tsx",
+        "hash": "17105123233711589762"
+      },
+      {
+        "file": "components/ui/accordion.tsx",
+        "hash": "6767627538712894966"
+      },
+      {
+        "file": "components/ui/toggle.tsx",
+        "hash": "8443669533919828364"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "9424753579106766012"
+      },
+      {
+        "file": "components/ui/scroll-area.tsx",
+        "hash": "2422953340026902238"
+      },
+      {
+        "file": "components/ui/breadcrumb.tsx",
+        "hash": "12822658377096959375"
+      },
+      {
+        "file": "components/ui/button.tsx",
+        "hash": "16303274729319721100"
+      },
+      {
+        "file": "components/ui/skeleton.tsx",
+        "hash": "11018495041558081101"
+      },
+      {
+        "file": "components/ui/toggle-group.tsx",
+        "hash": "5139389639685406919"
+      },
+      {
+        "file": "components/ui/carousel.tsx",
+        "hash": "9781341429516573120"
+      },
+      {
+        "file": "components/ui/navigation-menu.tsx",
+        "hash": "4266317603734478905"
+      },
+      {
+        "file": "components/theme-provider.tsx",
+        "hash": "4341434202058491045"
+      },
+      {
+        "file": "components/TodoItemCreator.tsx",
+        "hash": "15487380775465818008"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "2839488429184482053"
+      },
+      {
+        "file": "components/ui/resizable.tsx",
+        "hash": "16538147382524172124"
+      },
+      {
+        "file": "components/ui/textarea.tsx",
+        "hash": "13690431687965475923"
+      },
+      {
+        "file": "components/ui/sidebar.tsx",
+        "hash": "10467010668371181159"
+      },
+      {
+        "file": "components/ui/card.tsx",
+        "hash": "11070769480349136404"
+      },
+      {
+        "file": "tailwind.config.ts",
+        "hash": "9711035265415411598"
+      },
+      {
+        "file": "components/TodoItem.tsx",
+        "hash": "5162913406737086464"
+      },
+      {
+        "file": "components/ui/tabs.tsx",
+        "hash": "14903014156185968533"
+      },
+      {
+        "file": "components/ui/collapsible.tsx",
+        "hash": "11550741736187478023"
+      },
+      {
+        "file": "styles/globals.css",
+        "hash": "16617595011651437085"
+      },
+      {
+        "file": "app/globals.css",
+        "hash": "8071476331488654497"
+      },
+      {
+        "file": "components/ui/chart.tsx",
+        "hash": "4516395405282782572"
+      },
+      {
+        "file": "jest.preset.js",
+        "hash": "1368667890390014517"
+      },
+      {
+        "file": "nx.json",
+        "hash": "18117560833375769795"
+      },
+      {
+        "file": "lib/atoms.ts",
+        "hash": "8316476968069545545"
+      },
+      {
+        "file": "components/ui/table.tsx",
+        "hash": "15561090093689502445"
+      },
+      {
+        "file": "components/ui/progress.tsx",
+        "hash": "6488440246383898105"
+      },
+      {
+        "file": "components/ui/tooltip.tsx",
+        "hash": "3517273356774136312"
+      },
+      {
+        "file": "components/ui/radio-group.tsx",
+        "hash": "16376553427516537582"
+      },
+      {
+        "file": "components/ui/popover.tsx",
+        "hash": "7069390599823337386"
+      },
+      {
+        "file": "public/placeholder.jpg",
+        "hash": "1416457277071100514"
+      },
+      {
+        "file": "components/ui/input-otp.tsx",
+        "hash": "9918878389634114833"
+      },
+      {
+        "file": "app/page.tsx",
+        "hash": "12959597286842510214"
+      },
+      {
+        "file": "components/ui/slider.tsx",
+        "hash": "6960706183717472766"
+      },
+      {
+        "file": "components/ui/toaster.tsx",
+        "hash": "11227527683777560484"
+      },
+      {
+        "file": "components/ui/checkbox.tsx",
+        "hash": "4018075805239740453"
+      },
+      {
+        "file": "package.json",
+        "hash": "16728023540128473449"
+      },
+      {
+        "file": "components/ui/label.tsx",
+        "hash": "10333185515328589737"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "6452373557473745169"
+      },
+      {
+        "file": "components/ui/use-toast.ts",
+        "hash": "15518585359818126944"
+      },
+      {
+        "file": "components/ui/alert-dialog.tsx",
+        "hash": "13282319469992546012"
+      },
+      {
+        "file": "components/ui/select.tsx",
+        "hash": "1524197681826973962"
+      },
+      {
+        "file": "components/ui/command.tsx",
+        "hash": "15546096703075717732"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "59560189201102486"
+      },
+      {
+        "file": "components/ui/toast.tsx",
+        "hash": "6245830950242067181"
+      },
+      {
+        "file": "app/layout.tsx",
+        "hash": "5836131891659480482"
+      },
+      {
+        "file": "components/TodoListFilters.tsx",
+        "hash": "2229799443541009969"
+      },
+      {
+        "file": "components/ui/form.tsx",
+        "hash": "6683669902464975853"
+      },
+      {
+        "file": "README.md",
+        "hash": "16203236101188024027"
+      },
+      {
+        "file": "components/ui/menubar.tsx",
+        "hash": "8181259661433465999"
+      },
+      {
+        "file": "components/ui/hover-card.tsx",
+        "hash": "13060743768206807766"
+      }
+    ],
+    "projectFileMap": {
+      "todo": [
+        {
+          "file": "apps/todo/.next/app-build-manifest.json",
+          "hash": "6642808631538785885"
+        },
+        {
+          "file": "apps/todo/.next/build-manifest.json",
+          "hash": "2702609462139627143"
+        },
+        {
+          "file": "apps/todo/.next/cache/.rscinfo",
+          "hash": "9975919650165566707"
+        },
+        {
+          "file": "apps/todo/.next/cache/webpack/client-development/0.pack.gz",
+          "hash": "15930568253591753512"
+        },
+        {
+          "file": "apps/todo/.next/cache/webpack/client-development/1.pack.gz",
+          "hash": "2302177916585626816"
+        },
+        {
+          "file": "apps/todo/.next/cache/webpack/client-development/2.pack.gz",
+          "hash": "7880028938191245085"
+        },
+        {
+          "file": "apps/todo/.next/cache/webpack/client-development/3.pack.gz",
+          "hash": "14204225346548501531"
+        },
+        {
+          "file": "apps/todo/.next/cache/webpack/client-development/4.pack.gz",
+          "hash": "15624955705078187610"
+        },
+        {
+          "file": "apps/todo/.next/cache/webpack/client-development/5.pack.gz",
+          "hash": "6809856981637323961"
+        },
+        {
+          "file": "apps/todo/.next/cache/webpack/client-development/6.pack.gz",
+          "hash": "7762129212129199311"
+        },
+        {
+          "file": "apps/todo/.next/cache/webpack/client-development/7.pack.gz",
+          "hash": "16861367476376983958"
+        },
+        {
+          "file": "apps/todo/.next/cache/webpack/client-development/index.pack.gz",
+          "hash": "5772684062659087832"
+        },
+        {
+          "file": "apps/todo/.next/cache/webpack/client-development/index.pack.gz.old",
+          "hash": "4579463919930463009"
+        },
+        {
+          "file": "apps/todo/.next/cache/webpack/server-development/0.pack.gz",
+          "hash": "11998378277391672805"
+        },
+        {
+          "file": "apps/todo/.next/cache/webpack/server-development/1.pack.gz",
+          "hash": "3780970225689406003"
+        },
+        {
+          "file": "apps/todo/.next/cache/webpack/server-development/2.pack.gz",
+          "hash": "4622963576496557108"
+        },
+        {
+          "file": "apps/todo/.next/cache/webpack/server-development/3.pack.gz",
+          "hash": "3372894091789671997"
+        },
+        {
+          "file": "apps/todo/.next/cache/webpack/server-development/index.pack.gz",
+          "hash": "8204187894958453850"
+        },
+        {
+          "file": "apps/todo/.next/cache/webpack/server-development/index.pack.gz.old",
+          "hash": "14785126972383002607"
+        },
+        {
+          "file": "apps/todo/.next/package.json",
+          "hash": "11338307439248427064"
+        },
+        {
+          "file": "apps/todo/.next/react-loadable-manifest.json",
+          "hash": "1389868326933519382"
+        },
+        {
+          "file": "apps/todo/.next/server/app-paths-manifest.json",
+          "hash": "1389868326933519382"
+        },
+        {
+          "file": "apps/todo/.next/server/interception-route-rewrite-manifest.js",
+          "hash": "10484309360224763022"
+        },
+        {
+          "file": "apps/todo/.next/server/middleware-build-manifest.js",
+          "hash": "10087042376963020870"
+        },
+        {
+          "file": "apps/todo/.next/server/middleware-manifest.json",
+          "hash": "9889576824779923310"
+        },
+        {
+          "file": "apps/todo/.next/server/middleware-react-loadable-manifest.js",
+          "hash": "9185069726031651908"
+        },
+        {
+          "file": "apps/todo/.next/server/next-font-manifest.js",
+          "hash": "16541577805185552134"
+        },
+        {
+          "file": "apps/todo/.next/server/next-font-manifest.json",
+          "hash": "11891788324563068681"
+        },
+        {
+          "file": "apps/todo/.next/server/pages-manifest.json",
+          "hash": "1389868326933519382"
+        },
+        {
+          "file": "apps/todo/.next/server/server-reference-manifest.js",
+          "hash": "13062913855343812063"
+        },
+        {
+          "file": "apps/todo/.next/server/server-reference-manifest.json",
+          "hash": "4664959495478535153"
+        },
+        {
+          "file": "apps/todo/.next/static/chunks/polyfills.js",
+          "hash": "8152964857117933876"
+        },
+        {
+          "file": "apps/todo/.next/static/development/_buildManifest.js",
+          "hash": "13063724784290855366"
+        },
+        {
+          "file": "apps/todo/.next/static/development/_ssgManifest.js",
+          "hash": "17018243955171961484"
+        },
+        {
+          "file": "apps/todo/.next/trace",
+          "hash": "15878505667860807576"
+        },
+        {
+          "file": "apps/todo/.next/types/cache-life.d.ts",
+          "hash": "12858368115349027927"
+        },
+        {
+          "file": "apps/todo/.next/types/package.json",
+          "hash": "6094546126370684104"
+        },
+        {
+          "file": "apps/todo/jest.config.ts",
+          "hash": "16699690259422618592"
+        },
+        {
+          "file": "apps/todo/project.json",
+          "hash": "7789870956502623657"
+        },
+        {
+          "file": "apps/todo/src/app/layout.tsx",
+          "hash": "1607759158083814388"
+        },
+        {
+          "file": "apps/todo/src/app/nx-welcome.tsx",
+          "hash": "4303976219058110594"
+        },
+        {
+          "file": "apps/todo/src/app/page.tsx",
+          "hash": "15209464714178847578"
+        },
+        {
+          "file": "apps/todo/src/components/TodoItem.tsx",
+          "hash": "5542303180515864964"
+        },
+        {
+          "file": "apps/todo/src/components/TodoItemCreator.tsx",
+          "hash": "12048596791871672678"
+        },
+        {
+          "file": "apps/todo/src/components/TodoListFilters.tsx",
+          "hash": "9672664564684254465"
+        },
+        {
+          "file": "apps/todo/src/components/TodoListStats.tsx",
+          "hash": "12074146486352860838"
+        },
+        {
+          "file": "apps/todo/src/index.html",
+          "hash": "4234778448182603724"
+        },
+        {
+          "file": "apps/todo/src/main.tsx",
+          "hash": "8488830975148414162"
+        },
+        {
+          "file": "apps/todo/src/state/atoms.ts",
+          "hash": "3580721126078126304"
+        },
+        {
+          "file": "apps/todo/src/styles.css",
+          "hash": "476192407079627248"
+        },
+        {
+          "file": "apps/todo/src/styles/tailwind-imports.css",
+          "hash": "14234720848698517384"
+        },
+        {
+          "file": "apps/todo/tailwind.config.js",
+          "hash": "9253960733834264551"
+        },
+        {
+          "file": "apps/todo/tsconfig.app.json",
+          "hash": "10017107808875651322"
+        },
+        {
+          "file": "apps/todo/tsconfig.json",
+          "hash": "4740687635563059082"
+        },
+        {
+          "file": "apps/todo/webpack.config.js",
+          "hash": "18429372556651076251"
+        }
+      ]
+    }
+  }
+}

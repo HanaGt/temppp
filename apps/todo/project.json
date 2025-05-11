@@ -1,0 +1,41 @@
+{
+  "name": "todo",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "/apps/todo/src",
+  "projectType": "application",
+  "tags": [],
+  "targets": {
+    "build": {
+      "executor": "@nx/next:build",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/apps/todo",
+        "index": "apps/todo/src/index.html",
+        "main": "apps/todo/src/main.tsx",
+        "tsConfig": "apps/todo/tsconfig.app.json",
+       
+        "styles": [
+          {
+            "input": "./apps/todo/src/styles.css"
+          }
+        ]
+      }
+    },
+"serve": {
+  "executor": "@nx/next:server",
+  "options": {
+    "buildTarget": "todo:build",
+    "tsConfig": "apps/todo/tsconfig.app.json"
+  }
+}
+    },
+    "build": {
+      "executor": "@nx/next:build",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/apps/todo",
+        "root": "apps/todo",
+        "nextConfig": "apps/todo/next.config.mjs"
+      }
+    }
+  }

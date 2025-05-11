@@ -1,0 +1,17 @@
+
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mUnable to resolve @nx/web:webpack.[39m
+
+Cannot find executor 'webpack' in /home/hana/Documents/temp/node_modules/.pnpm/@nx+web@21.0.3_@babel+traverse@7.27.1_nx@21.0.3/node_modules/@nx/web/executors.json.
+Error: Unable to resolve @nx/web:webpack.
+Cannot find executor 'webpack' in /home/hana/Documents/temp/node_modules/.pnpm/@nx+web@21.0.3_@babel+traverse@7.27.1_nx@21.0.3/node_modules/@nx/web/executors.json.
+    at getExecutorInformation (/home/hana/Documents/temp/node_modules/.pnpm/nx@21.0.3/node_modules/nx/src/command-line/run/executor-utils.js:62:15)
+    at readTargetOptions (/home/hana/Documents/temp/node_modules/.pnpm/@nx+devkit@21.0.3_nx@21.0.3/node_modules/@nx/devkit/src/executors/read-target-options.js:21:70)
+    at getBuildOptions (/home/hana/Documents/temp/node_modules/.pnpm/@nx+webpack@21.0.3_@babel+traverse@7.27.1_@rspack+core@1.3.9_@swc+helpers@0.5.15__nx@21.0.3_typescript@5.8.3/node_modules/@nx/webpack/src/executors/dev-server/dev-server.impl.js:83:57)
+    at devServerExecutor (/home/hana/Documents/temp/node_modules/.pnpm/@nx+webpack@21.0.3_@babel+traverse@7.27.1_@rspack+core@1.3.9_@swc+helpers@0.5.15__nx@21.0.3_typescript@5.8.3/node_modules/@nx/webpack/src/executors/dev-server/dev-server.impl.js:20:68)
+    at devServerExecutor.next (<anonymous>)
+    at getLastValueFromAsyncIterableIterator (/home/hana/.cache/pnpm/dlx/33b4783ef50be2a1aa2dc8fe1cc46afba84c4173c2fc7214b492828ee0748317/196b95468ab-1475/node_modules/.pnpm/nx@21.0.3/node_modules/nx/src/utils/async-iterator.js:15:34)
+    at iteratorToProcessStatusCode (/home/hana/.cache/pnpm/dlx/33b4783ef50be2a1aa2dc8fe1cc46afba84c4173c2fc7214b492828ee0748317/196b95468ab-1475/node_modules/.pnpm/nx@21.0.3/node_modules/nx/src/command-line/run/run.js:39:90)
+    at /home/hana/.cache/pnpm/dlx/33b4783ef50be2a1aa2dc8fe1cc46afba84c4173c2fc7214b492828ee0748317/196b95468ab-1475/node_modules/.pnpm/nx@21.0.3/node_modules/nx/src/command-line/run/run.js:176:16
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async handleErrors (/home/hana/.cache/pnpm/dlx/33b4783ef50be2a1aa2dc8fe1cc46afba84c4173c2fc7214b492828ee0748317/196b95468ab-1475/node_modules/.pnpm/nx@21.0.3/node_modules/nx/src/utils/handle-errors.js:8:24)
+

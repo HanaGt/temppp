@@ -1,0 +1,9 @@
+{
+  "run": {
+    "command": "nx serve todo",
+    "startTime": "2025-05-11T09:28:08.979Z",
+    "endTime": "2025-05-11T13:48:00.288Z",
+    "inner": false
+  },
+  "tasks": []
+}

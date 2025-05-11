@@ -1,0 +1,19 @@
+
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mCannot find module 'react-refresh/babel'[39m
+
+Require stack:
+- /home/hana/Documents/temp/node_modules/.pnpm/@nx+react@21.0.3_@babel+traverse@7.27.1_@swc+helpers@0.5.15_@zkochan+js-yaml@0.0.7_esli_1be6250e9ee8fd53200cd4ab488d51d2/node_modules/@nx/react/plugins/nx-react-webpack-plugin/lib/apply-react-config.js
+- /home/hana/Documents/temp/node_modules/.pnpm/@nx+react@21.0.3_@babel+traverse@7.27.1_@swc+helpers@0.5.15_@zkochan+js-yaml@0.0.7_esli_1be6250e9ee8fd53200cd4ab488d51d2/node_modules/@nx/react/plugins/nx-react-webpack-plugin/nx-react-webpack-plugin.js
+- /home/hana/Documents/temp/node_modules/.pnpm/@nx+react@21.0.3_@babel+traverse@7.27.1_@swc+helpers@0.5.15_@zkochan+js-yaml@0.0.7_esli_1be6250e9ee8fd53200cd4ab488d51d2/node_modules/@nx/react/index.js
+- /home/hana/Documents/temp/apps/todo/webpack.config.js
+- /home/hana/Documents/temp/node_modules/.pnpm/@nx+webpack@21.0.3_@babel+traverse@7.27.1_@rspack+core@1.3.9_@swc+helpers@0.5.15__nx@21.0.3_typescript@5.8.3/node_modules/@nx/webpack/src/utils/webpack/resolve-user-defined-webpack-config.js
+- /home/hana/Documents/temp/node_modules/.pnpm/@nx+webpack@21.0.3_@babel+traverse@7.27.1_@rspack+core@1.3.9_@swc+helpers@0.5.15__nx@21.0.3_typescript@5.8.3/node_modules/@nx/webpack/src/executors/dev-server/dev-server.impl.js
+- /home/hana/.cache/pnpm/dlx/33b4783ef50be2a1aa2dc8fe1cc46afba84c4173c2fc7214b492828ee0748317/196b95468ab-1475/node_modules/.pnpm/nx@21.0.3/node_modules/nx/src/config/schema-utils.js
+- /home/hana/.cache/pnpm/dlx/33b4783ef50be2a1aa2dc8fe1cc46afba84c4173c2fc7214b492828ee0748317/196b95468ab-1475/node_modules/.pnpm/nx@21.0.3/node_modules/nx/src/command-line/run/executor-utils.js
+- /home/hana/.cache/pnpm/dlx/33b4783ef50be2a1aa2dc8fe1cc46afba84c4173c2fc7214b492828ee0748317/196b95468ab-1475/node_modules/.pnpm/nx@21.0.3/node_modules/nx/src/project-graph/utils/project-configuration-utils.js
+- /home/hana/.cache/pnpm/dlx/33b4783ef50be2a1aa2dc8fe1cc46afba84c4173c2fc7214b492828ee0748317/196b95468ab-1475/node_modules/.pnpm/nx@21.0.3/node_modules/nx/src/utils/package-json.js
+- /home/hana/.cache/pnpm/dlx/33b4783ef50be2a1aa2dc8fe1cc46afba84c4173c2fc7214b492828ee0748317/196b95468ab-1475/node_modules/.pnpm/nx@21.0.3/node_modules/nx/src/utils/print-help.js
+- /home/hana/.cache/pnpm/dlx/33b4783ef50be2a1aa2dc8fe1cc46afba84c4173c2fc7214b492828ee0748317/196b95468ab-1475/node_modules/.pnpm/nx@21.0.3/node_modules/nx/src/command-line/run/run.js
+- /home/hana/.cache/pnpm/dlx/33b4783ef50be2a1aa2dc8fe1cc46afba84c4173c2fc7214b492828ee0748317/196b95468ab-1475/node_modules/.pnpm/nx@21.0.3/node_modules/nx/bin/run-executor.js
+Pass --verbose to see the stacktrace.
+

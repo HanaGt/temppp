@@ -1,0 +1,104 @@
+{
+  "apps/todo": {
+    "root": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "build": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.outputPath": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.index": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.main": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.tsConfig": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.styles": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.buildTarget": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.tsConfig": [
+      "apps/todo/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.dependsOn": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  }
+}
